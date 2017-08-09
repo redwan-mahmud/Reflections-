@@ -1,0 +1,31 @@
+1st questions..
+
+It helped me view if the lines in two code were differnt 
+Helped track the changes made between the old and the new files 
+Easy to keep track of changes 
+
+
+How could having easy access to the entire history of a file make 
+you a more efficient programmer in the long term?
+
+It makes it easier to debug code..
+If i added code that made the program to malfunction i can 
+track back..
+
+
+What do you think are the pros and cons of manually choosing 
+when to create a commit, 
+like you do in Git, vs having versions automatically saved,
+ like Google Docs does?
+
+
+ Much easier to track changes and keep track 
+
+
+ Why do you think some version control systems, like Git, allow saving 
+ multiple files in one commit, while others, like Google Docs, treat 
+ each file separately?
+
+ GIt is more programming oriented and hence one when we change one file 
+ we usually need to change it to another 
+ 
