@@ -25,3 +25,9 @@ When would you use one instead of another?
 * Clones is basically copying a version of the files to our computer.
   We use it when we want to work in our machine or just make a different copy of our file
   elsewhere.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+* Makes it easier to look back to the original code. If any bugs were introduced after 
+  adding new features or if we want to look back at some uncollaborated code we would
+  want some last known state of the code stored locaclly.
