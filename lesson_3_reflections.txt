@@ -10,3 +10,18 @@ having Git automatically stay up-to-date with your remote repository?
 
 * Much easier to keep track of the pull changes when I am doing it manually.
 * Might not want all commits to be added to computer.
+
+
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+
+* Forks allow us to make a clone a file from github to our account. It is used when we 
+  want to use the files instead of making changes to the original file cloned from. 
+
+* Branches are used when we want to create new features but don't want to include it in our 
+  main file yet. It is used when we want to keep working in the same repository and easily 
+  merge features. 
+
+* Clones is basically copying a version of the files to our computer.
+  We use it when we want to work in our machine or just make a different copy of our file
+  elsewhere.
